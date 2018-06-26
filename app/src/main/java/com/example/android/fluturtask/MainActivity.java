@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(mContext, "Previous Solution", Toast.LENGTH_SHORT).show();
                 }
                 if(id==R.id.nav_clue){
-                    Toast.makeText(mContext, "Clue", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(mContext, "Clue(Free)", Toast.LENGTH_SHORT).show();
                 }
                 if(id==R.id.nav_solution){
                     Toast.makeText(mContext, "Solution", Toast.LENGTH_SHORT).show();
