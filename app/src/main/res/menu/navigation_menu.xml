@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+   <item android:id="@+id/nav_home"
+       android:icon="@drawable/home"
+       android:title="Home"/>
+    <item android:id="@+id/nav_prev_solution"
+        android:icon="@drawable/prev_solution"
+        android:title="Previous Solution"/>
+    <item android:id="@+id/nav_clue"
+        android:icon="@drawable/clue"
+        android:title="Clue(Free)"/>
+    <item android:id="@+id/nav_solution"
+        android:icon="@drawable/solution"
+        android:title="Solution"/>
+</menu>
